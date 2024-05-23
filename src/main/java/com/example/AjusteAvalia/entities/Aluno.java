@@ -1,4 +1,4 @@
-package ajusteAvalia.entities;
+package com.example.AjusteAvalia.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
